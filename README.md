@@ -14,7 +14,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=22D3EE&center=true&width=700&height=28&lines=→+engineer+who+reads+stack+traces+for+fun;→+building+things+that+survive+production;→+clean+interfaces%2C+honest+metrics%2C+no+magic;→+the+graph+is+noisy+and+that+is+the+point." alt="Typing SVG" />
+<img src="./assets/typing.svg" alt="Typing SVG" width="700" height="28" />
 
 <br/>
 
